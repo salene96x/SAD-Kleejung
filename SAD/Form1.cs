@@ -58,6 +58,9 @@ namespace SAD
                 {
                     if (reader.GetString(0) == username && reader.GetString(1) == pwd)
                     {
+                        Main main = new Main();
+                        main.Show();
+                        this.Hide();
                         MessageBox.Show("Successfully login");
                     }
                     else
