@@ -1,0 +1,229 @@
+C:\Users\UserPRO\source\repos\SAD\SAD\bin\Debug\SAD.exe.config
+C:\Users\UserPRO\source\repos\SAD\SAD\bin\Debug\SAD.exe
+C:\Users\UserPRO\source\repos\SAD\SAD\bin\Debug\SAD.pdb
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.csprojAssemblyReference.cache
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Form1.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Manage_table_data.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Properties.Resources.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Register.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.csproj.GenerateResource.cache
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.exe
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.pdb
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.UserControl1.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Main.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Front.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Resource1.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Resource2.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Back.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.UserControl2.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Open_sales.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Number_cutomers.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Order_food.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Payment.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Book.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.history.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Add_food.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Manage_Table.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone1.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone2.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone3.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone4.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone1_Main.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone2_Main.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone3_Main.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Zone4_Main.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Improve.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Item.resources
+C:\Users\UserPRO\source\repos\SAD\SAD\obj\Debug\SAD.Item2.resources
+E:\SAD\SAD\SAD\bin\Debug\SAD.exe.config
+E:\SAD\SAD\SAD\bin\Debug\SAD.exe
+E:\SAD\SAD\SAD\bin\Debug\SAD.pdb
+E:\SAD\SAD\SAD\obj\Debug\SAD.csprojAssemblyReference.cache
+E:\SAD\SAD\SAD\obj\Debug\SAD.Add_food.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Back.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Book.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Form1.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Front.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.history.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Improve.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Item.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Item2.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Main.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Manage_Table.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Manage_table_data.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Number_cutomers.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Open_sales.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Order_food.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Payment.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Properties.Resources.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Register.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Resource1.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Resource2.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.UserControl1.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.UserControl2.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone1.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone1_Main.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone2.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone2_Main.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone3.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone3_Main.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone4.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.Zone4_Main.resources
+E:\SAD\SAD\SAD\obj\Debug\SAD.csproj.GenerateResource.cache
+E:\SAD\SAD\SAD\obj\Debug\SAD.csproj.CoreCompileInputs.cache
+E:\SAD\SAD\SAD\obj\Debug\SAD.exe
+E:\SAD\SAD\SAD\obj\Debug\SAD.pdb
+E:\SAD\SAD\SAD\bin\Debug\Database.mdf
+E:\SAD\SAD\SAD\bin\Debug\Database_log.ldf
+E:\SAD\SAD\SAD\SAD\bin\Debug\Database.mdf
+E:\SAD\SAD\SAD\SAD\bin\Debug\Database_log.ldf
+E:\SAD\SAD\SAD\SAD\bin\Debug\SAD.exe.config
+E:\SAD\SAD\SAD\SAD\bin\Debug\SAD.exe
+E:\SAD\SAD\SAD\SAD\bin\Debug\SAD.pdb
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.csprojAssemblyReference.cache
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Add_food.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Back.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Book.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Form1.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Front.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.history.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Improve.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Item.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Item2.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Main.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Manage_Table.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Manage_table_data.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Number_cutomers.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Open_sales.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Order_food.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Payment.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Properties.Resources.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Register.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Resource1.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Resource2.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.UserControl1.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.UserControl2.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone1.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone1_Main.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone2.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone2_Main.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone3.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone3_Main.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone4.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.Zone4_Main.resources
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.csproj.GenerateResource.cache
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.csproj.CoreCompileInputs.cache
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.exe
+E:\SAD\SAD\SAD\SAD\obj\Debug\SAD.pdb
+C:\Users\UserPRO\Desktop\SAD\SAD\bin\Debug\Database.mdf
+C:\Users\UserPRO\Desktop\SAD\SAD\bin\Debug\Database_log.ldf
+C:\Users\UserPRO\Desktop\SAD\SAD\bin\Debug\SAD.exe.config
+C:\Users\UserPRO\Desktop\SAD\SAD\bin\Debug\SAD.exe
+C:\Users\UserPRO\Desktop\SAD\SAD\bin\Debug\SAD.pdb
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.csprojAssemblyReference.cache
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Add_food.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Back.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Book.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Cash_drawer.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Closesale.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Form1.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Front.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.history.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Improve.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Item.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Item2.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Main.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Manage_Table.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Manage_table_data.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Number_cutomers.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Open_sales.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Order_food.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Payment.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Properties.Resources.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Register.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Resource1.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Resource2.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.UserControl1.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.UserControl2.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone1.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone1_Main.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone2.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone2_Main.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone3.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone3_Main.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone4.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Zone4_Main.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.csproj.GenerateResource.cache
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.csproj.CoreCompileInputs.cache
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.exe
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.pdb
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.employee.resources
+C:\Users\UserPRO\Desktop\SAD\SAD\obj\Debug\SAD.Report.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Database.mdf
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Database_log.ldf
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\SAD.exe.config
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\SAD.exe
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\SAD.pdb
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Google.Protobuf.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\MySql.Data.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Buffers.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Memory.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Zstandard.Net.dll
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Google.Protobuf.pdb
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\Google.Protobuf.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\MySql.Data.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Buffers.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Memory.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.csprojAssemblyReference.cache
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Add_food.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Back.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Book.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Cash_drawer.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Closesale.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.employee.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Form1.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Front.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.history.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Improve.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Item.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Item2.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Main.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Manage_Table.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Manage_table_data.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Number_cutomers.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Open_sales.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Order_food.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Payment.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Properties.Resources.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Register.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Report.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Resource1.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Resource2.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.UserControl1.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.UserControl2.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone1.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone1_Main.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone2.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone2_Main.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone3.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone3_Main.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone4.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.Zone4_Main.resources
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.csproj.GenerateResource.cache
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.csproj.CoreCompileInputs.cache
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.csproj.CopyComplete
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.exe
+C:\Users\sjuck\Downloads\SAD (1)\SAD\SAD\obj\Debug\SAD.pdb
